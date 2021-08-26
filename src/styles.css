@@ -1,0 +1,37 @@
+body {
+    background-color: #fafafa;
+    width: 100%;
+}
+
+.category {
+    width: 230px;
+    background-color: #fff;
+    border-radius: 15px;
+}
+
+.navbar {
+    height: 65px;
+}
+
+.right {
+    justify-content: flex-end;
+}
+
+.space {
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+.main-text {
+    margin: auto 15px;
+    font-size: 20px;
+}
+
+.form-control {
+    width: 350px;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
